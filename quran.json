@@ -1,0 +1,1306 @@
+{
+    "100": {
+        "name_ar": "العاديات",
+        "name_en": "Al-`Adiyat",
+        "name_fa": "عادیات",
+        "verses": 11,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 14,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "101": {
+        "name_ar": "القارعة",
+        "name_en": "Al-Qari`ah",
+        "name_fa": "قارعه",
+        "verses": 11,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 30,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "102": {
+        "name_ar": "التكاثر",
+        "name_en": "At-Takathur",
+        "name_fa": "تکاثر",
+        "verses": 8,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 16,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "103": {
+        "name_ar": "العصر",
+        "name_en": "Al-`Asr",
+        "name_fa": "عصر",
+        "verses": 3,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 13,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "104": {
+        "name_ar": "الهمزة",
+        "name_en": "Al-Humazah",
+        "name_fa": "همزه",
+        "verses": 9,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 32,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "105": {
+        "name_ar": "الفيل",
+        "name_en": "Al-Fil",
+        "name_fa": "فیل",
+        "verses": 5,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 19,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "106": {
+        "name_ar": "قريش",
+        "name_en": "Quraysh",
+        "name_fa": "قریش",
+        "verses": 4,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 29,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "107": {
+        "name_ar": "الماعون",
+        "name_en": "Al-Ma`un",
+        "name_fa": "ماعون",
+        "verses": 7,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 17,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "108": {
+        "name_ar": "الكوثر",
+        "name_en": "Al-Kawthar",
+        "name_fa": "کوثر",
+        "verses": 3,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 15,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "109": {
+        "name_ar": "الكافرون",
+        "name_en": "Al-Kafirun",
+        "name_fa": "کافرون",
+        "verses": 6,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 18,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "110": {
+        "name_ar": "النصر",
+        "name_en": "An-Nasr",
+        "name_fa": "نصر",
+        "verses": 3,
+        "type": "Medinan",
+        "juz": 30,
+        "order": 114,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "111": {
+        "name_ar": "المسد",
+        "name_en": "Al-Masad",
+        "name_fa": "مسد",
+        "verses": 5,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 6,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "112": {
+        "name_ar": "الإخلاص",
+        "name_en": "Al-Ikhlas",
+        "name_fa": "اخلاص",
+        "verses": 4,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 22,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "113": {
+        "name_ar": "الفلق",
+        "name_en": "Al-Falaq",
+        "name_fa": "فلق",
+        "verses": 5,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 20,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "114": {
+        "name_ar": "الناس",
+        "name_en": "An-Nas",
+        "name_fa": "ناس",
+        "verses": 6,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 21,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "001": {
+        "name_ar": "الفاتحة",
+        "name_en": "Al-Fatiha",
+        "name_fa": "فاتحه",
+        "verses": 7,
+        "type": "Meccan",
+        "juz": 1,
+        "order": 5,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "002": {
+        "name_ar": "البقرة",
+        "name_en": "Al-Baqarah",
+        "name_fa": "بقره",
+        "verses": 286,
+        "type": "Medinan",
+        "juz": [
+            1,
+            2,
+            3
+        ],
+        "order": 87,
+        "rukus": 40,
+        "sajdah": false
+    },
+    "003": {
+        "name_ar": "آل عمران",
+        "name_en": "Aal-e-Imran",
+        "name_fa": "آل عمران",
+        "verses": 200,
+        "type": "Medinan",
+        "juz": [
+            3,
+            4
+        ],
+        "order": 89,
+        "rukus": 20,
+        "sajdah": false
+    },
+    "004": {
+        "name_ar": "النساء",
+        "name_en": "An-Nisa",
+        "name_fa": "نساء",
+        "verses": 176,
+        "type": "Medinan",
+        "juz": [
+            4,
+            5,
+            6
+        ],
+        "order": 92,
+        "rukus": 24,
+        "sajdah": false
+    },
+    "005": {
+        "name_ar": "المائدة",
+        "name_en": "Al-Ma'idah",
+        "name_fa": "مائده",
+        "verses": 120,
+        "type": "Medinan",
+        "juz": [
+            6,
+            7
+        ],
+        "order": 112,
+        "rukus": 16,
+        "sajdah": false
+    },
+    "006": {
+        "name_ar": "الأنعام",
+        "name_en": "Al-An'am",
+        "name_fa": "انعام",
+        "verses": 165,
+        "type": "Meccan",
+        "juz": [
+            7,
+            8
+        ],
+        "order": 55,
+        "rukus": 20,
+        "sajdah": false
+    },
+    "007": {
+        "name_ar": "الأعراف",
+        "name_en": "Al-A'raf",
+        "name_fa": "اعراف",
+        "verses": 206,
+        "type": "Meccan",
+        "juz": [
+            8,
+            9
+        ],
+        "order": 39,
+        "rukus": 24,
+        "sajdah": true
+    },
+    "008": {
+        "name_ar": "الأنفال",
+        "name_en": "Al-Anfal",
+        "name_fa": "انفال",
+        "verses": 75,
+        "type": "Medinan",
+        "juz": [
+            9,
+            10
+        ],
+        "order": 88,
+        "rukus": 10,
+        "sajdah": false
+    },
+    "009": {
+        "name_ar": "التوبة",
+        "name_en": "At-Tawbah",
+        "name_fa": "توبه",
+        "verses": 129,
+        "type": "Medinan",
+        "juz": [
+            10,
+            11
+        ],
+        "order": 113,
+        "rukus": 16,
+        "sajdah": false
+    },
+    "010": {
+        "name_ar": "يونس",
+        "name_en": "Yunus",
+        "name_fa": "یونس",
+        "verses": 109,
+        "type": "Meccan",
+        "juz": 11,
+        "order": 51,
+        "rukus": 11,
+        "sajdah": false
+    },
+    "011": {
+        "name_ar": "هود",
+        "name_en": "Hud",
+        "name_fa": "هود",
+        "verses": 123,
+        "type": "Meccan",
+        "juz": [
+            11,
+            12
+        ],
+        "order": 52,
+        "rukus": 10,
+        "sajdah": false
+    },
+    "012": {
+        "name_ar": "يوسف",
+        "name_en": "Yusuf",
+        "name_fa": "یوسف",
+        "verses": 111,
+        "type": "Meccan",
+        "juz": [
+            12,
+            13
+        ],
+        "order": 53,
+        "rukus": 12,
+        "sajdah": false
+    },
+    "013": {
+        "name_ar": "الرعد",
+        "name_en": "Ar-Ra'd",
+        "name_fa": "رعد",
+        "verses": 43,
+        "type": "Medinan",
+        "juz": 13,
+        "order": 96,
+        "rukus": 6,
+        "sajdah": true
+    },
+    "014": {
+        "name_ar": "إبراهيم",
+        "name_en": "Ibrahim",
+        "name_fa": "ابراهیم",
+        "verses": 52,
+        "type": "Meccan",
+        "juz": 13,
+        "order": 72,
+        "rukus": 7,
+        "sajdah": false
+    },
+    "015": {
+        "name_ar": "الحجر",
+        "name_en": "Al-Hijr",
+        "name_fa": "حجر",
+        "verses": 99,
+        "type": "Meccan",
+        "juz": 14,
+        "order": 54,
+        "rukus": 6,
+        "sajdah": false
+    },
+    "016": {
+        "name_ar": "النحل",
+        "name_en": "An-Nahl",
+        "name_fa": "نحل",
+        "verses": 128,
+        "type": "Meccan",
+        "juz": 14,
+        "order": 70,
+        "rukus": 16,
+        "sajdah": true
+    },
+    "017": {
+        "name_ar": "الإسراء",
+        "name_en": "Al-Isra",
+        "name_fa": "اسراء",
+        "verses": 111,
+        "type": "Meccan",
+        "juz": 15,
+        "order": 50,
+        "rukus": 12,
+        "sajdah": true
+    },
+    "018": {
+        "name_ar": "الكهف",
+        "name_en": "Al-Kahf",
+        "name_fa": "کهف",
+        "verses": 110,
+        "type": "Meccan",
+        "juz": [
+            15,
+            16
+        ],
+        "order": 69,
+        "rukus": 12,
+        "sajdah": false
+    },
+    "019": {
+        "name_ar": "مريم",
+        "name_en": "Maryam",
+        "name_fa": "مریم",
+        "verses": 98,
+        "type": "Meccan",
+        "juz": 16,
+        "order": 44,
+        "rukus": 6,
+        "sajdah": true
+    },
+    "020": {
+        "name_ar": "طه",
+        "name_en": "Taha",
+        "name_fa": "طه",
+        "verses": 135,
+        "type": "Meccan",
+        "juz": 16,
+        "order": 45,
+        "rukus": 8,
+        "sajdah": false
+    },
+    "021": {
+        "name_ar": "الأنبياء",
+        "name_en": "Al-Anbiya",
+        "name_fa": "انبیاء",
+        "verses": 112,
+        "type": "Meccan",
+        "juz": 17,
+        "order": 73,
+        "rukus": 7,
+        "sajdah": false
+    },
+    "022": {
+        "name_ar": "الحج",
+        "name_en": "Al-Hajj",
+        "name_fa": "حج",
+        "verses": 78,
+        "type": "Medinan",
+        "juz": 17,
+        "order": 103,
+        "rukus": 10,
+        "sajdah": true
+    },
+    "023": {
+        "name_ar": "المؤمنون",
+        "name_en": "Al-Mu'minun",
+        "name_fa": "مؤمنون",
+        "verses": 118,
+        "type": "Meccan",
+        "juz": 18,
+        "order": 74,
+        "rukus": 6,
+        "sajdah": false
+    },
+    "024": {
+        "name_ar": "النور",
+        "name_en": "An-Nur",
+        "name_fa": "نور",
+        "verses": 64,
+        "type": "Medinan",
+        "juz": 18,
+        "order": 102,
+        "rukus": 9,
+        "sajdah": false
+    },
+    "025": {
+        "name_ar": "الفرقان",
+        "name_en": "Al-Furqan",
+        "name_fa": "فرقان",
+        "verses": 77,
+        "type": "Meccan",
+        "juz": 18,
+        "order": 42,
+        "rukus": 6,
+        "sajdah": true
+    },
+    "026": {
+        "name_ar": "الشعراء",
+        "name_en": "Ash-Shu'ara",
+        "name_fa": "شعراء",
+        "verses": 227,
+        "type": "Meccan",
+        "juz": 19,
+        "order": 47,
+        "rukus": 11,
+        "sajdah": false
+    },
+    "027": {
+        "name_ar": "النمل",
+        "name_en": "An-Naml",
+        "name_fa": "نمل",
+        "verses": 93,
+        "type": "Meccan",
+        "juz": [
+            19,
+            20
+        ],
+        "order": 48,
+        "rukus": 7,
+        "sajdah": true
+    },
+    "028": {
+        "name_ar": "القصص",
+        "name_en": "Al-Qasas",
+        "name_fa": "قصص",
+        "verses": 88,
+        "type": "Meccan",
+        "juz": 20,
+        "order": 49,
+        "rukus": 9,
+        "sajdah": false
+    },
+    "029": {
+        "name_ar": "العنكبوت",
+        "name_en": "Al-Ankabut",
+        "name_fa": "عنکبوت",
+        "verses": 69,
+        "type": "Meccan",
+        "juz": [
+            20,
+            21
+        ],
+        "order": 85,
+        "rukus": 7,
+        "sajdah": false
+    },
+    "030": {
+        "name_ar": "الروم",
+        "name_en": "Ar-Rum",
+        "name_fa": "روم",
+        "verses": 60,
+        "type": "Meccan",
+        "juz": 21,
+        "order": 84,
+        "rukus": 6,
+        "sajdah": false
+    },
+    "031": {
+        "name_ar": "لقمان",
+        "name_en": "Luqman",
+        "name_fa": "لقمان",
+        "verses": 34,
+        "type": "Meccan",
+        "juz": 21,
+        "order": 57,
+        "rukus": 4,
+        "sajdah": false
+    },
+    "032": {
+        "name_ar": "السجدة",
+        "name_en": "As-Sajdah",
+        "name_fa": "سجده",
+        "verses": 30,
+        "type": "Meccan",
+        "juz": 21,
+        "order": 75,
+        "rukus": 3,
+        "sajdah": true
+    },
+    "033": {
+        "name_ar": "الأحزاب",
+        "name_en": "Al-Ahzab",
+        "name_fa": "احزاب",
+        "verses": 73,
+        "type": "Medinan",
+        "juz": [
+            21,
+            22
+        ],
+        "order": 90,
+        "rukus": 9,
+        "sajdah": false
+    },
+    "034": {
+        "name_ar": "سبأ",
+        "name_en": "Saba",
+        "name_fa": "سبأ",
+        "verses": 54,
+        "type": "Meccan",
+        "juz": 22,
+        "order": 58,
+        "rukus": 6,
+        "sajdah": false
+    },
+    "035": {
+        "name_ar": "فاطر",
+        "name_en": "Fatir",
+        "name_fa": "فاطر",
+        "verses": 45,
+        "type": "Meccan",
+        "juz": 22,
+        "order": 43,
+        "rukus": 5,
+        "sajdah": false
+    },
+    "036": {
+        "name_ar": "يس",
+        "name_en": "Ya-Sin",
+        "name_fa": "یس",
+        "verses": 83,
+        "type": "Meccan",
+        "juz": 22,
+        "order": 41,
+        "rukus": 5,
+        "sajdah": false
+    },
+    "037": {
+        "name_ar": "الصافات",
+        "name_en": "As-Saffat",
+        "name_fa": "صافات",
+        "verses": 182,
+        "type": "Meccan",
+        "juz": 23,
+        "order": 56,
+        "rukus": 5,
+        "sajdah": false
+    },
+    "038": {
+        "name_ar": "ص",
+        "name_en": "Sad",
+        "name_fa": "ص",
+        "verses": 88,
+        "type": "Meccan",
+        "juz": 23,
+        "order": 38,
+        "rukus": 5,
+        "sajdah": false
+    },
+    "039": {
+        "name_ar": "الزمر",
+        "name_en": "Az-Zumar",
+        "name_fa": "زمر",
+        "verses": 75,
+        "type": "Meccan",
+        "juz": [
+            23,
+            24
+        ],
+        "order": 59,
+        "rukus": 8,
+        "sajdah": false
+    },
+    "040": {
+        "name_ar": "غافر",
+        "name_en": "Ghafir",
+        "name_fa": "غافر",
+        "verses": 85,
+        "type": "Meccan",
+        "juz": 24,
+        "order": 60,
+        "rukus": 9,
+        "sajdah": false
+    },
+    "041": {
+        "name_ar": "فصلت",
+        "name_en": "Fussilat",
+        "name_fa": "فصلت",
+        "verses": 54,
+        "type": "Meccan",
+        "juz": [
+            24,
+            25
+        ],
+        "order": 61,
+        "rukus": 6,
+        "sajdah": true
+    },
+    "042": {
+        "name_ar": "الشورى",
+        "name_en": "Ash-Shura",
+        "name_fa": "شورى",
+        "verses": 53,
+        "type": "Meccan",
+        "juz": 25,
+        "order": 62,
+        "rukus": 5,
+        "sajdah": false
+    },
+    "043": {
+        "name_ar": "الزخرف",
+        "name_en": "Az-Zukhruf",
+        "name_fa": "زخرف",
+        "verses": 89,
+        "type": "Meccan",
+        "juz": 25,
+        "order": 63,
+        "rukus": 7,
+        "sajdah": false
+    },
+    "044": {
+        "name_ar": "الدخان",
+        "name_en": "Ad-Dukhan",
+        "name_fa": "دخان",
+        "verses": 59,
+        "type": "Meccan",
+        "juz": 25,
+        "order": 64,
+        "rukus": 3,
+        "sajdah": false
+    },
+    "045": {
+        "name_ar": "الجاثية",
+        "name_en": "Al-Jathiya",
+        "name_fa": "جاثیه",
+        "verses": 37,
+        "type": "Meccan",
+        "juz": 25,
+        "order": 65,
+        "rukus": 4,
+        "sajdah": false
+    },
+    "046": {
+        "name_ar": "الأحقاف",
+        "name_en": "Al-Ahqaf",
+        "name_fa": "احقاف",
+        "verses": 35,
+        "type": "Meccan",
+        "juz": 26,
+        "order": 66,
+        "rukus": 4,
+        "sajdah": false
+    },
+    "047": {
+        "name_ar": "محمد",
+        "name_en": "Muhammad",
+        "name_fa": "محمد",
+        "verses": 38,
+        "type": "Medinan",
+        "juz": 26,
+        "order": 95,
+        "rukus": 4,
+        "sajdah": false
+    },
+    "048": {
+        "name_ar": "الفتح",
+        "name_en": "Al-Fath",
+        "name_fa": "فتح",
+        "verses": 29,
+        "type": "Medinan",
+        "juz": 26,
+        "order": 111,
+        "rukus": 4,
+        "sajdah": false
+    },
+    "049": {
+        "name_ar": "الحجرات",
+        "name_en": "Al-Hujurat",
+        "name_fa": "حجرات",
+        "verses": 18,
+        "type": "Medinan",
+        "juz": 26,
+        "order": 106,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "050": {
+        "name_ar": "ق",
+        "name_en": "Qaf",
+        "name_fa": "ق",
+        "verses": 45,
+        "type": "Meccan",
+        "juz": 26,
+        "order": 34,
+        "rukus": 3,
+        "sajdah": false
+    },
+    "051": {
+        "name_ar": "الذاريات",
+        "name_en": "Adh-Dhariyat",
+        "name_fa": "ذاریات",
+        "verses": 60,
+        "type": "Meccan",
+        "juz": 26,
+        "order": 67,
+        "rukus": 3,
+        "sajdah": false
+    },
+    "052": {
+        "name_ar": "الطور",
+        "name_en": "At-Tur",
+        "name_fa": "طور",
+        "verses": 49,
+        "type": "Meccan",
+        "juz": 27,
+        "order": 76,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "053": {
+        "name_ar": "النجم",
+        "name_en": "An-Najm",
+        "name_fa": "نجم",
+        "verses": 62,
+        "type": "Meccan",
+        "juz": 27,
+        "order": 23,
+        "rukus": 3,
+        "sajdah": true
+    },
+    "054": {
+        "name_ar": "القمر",
+        "name_en": "Al-Qamar",
+        "name_fa": "قمر",
+        "verses": 55,
+        "type": "Meccan",
+        "juz": 27,
+        "order": 37,
+        "rukus": 3,
+        "sajdah": false
+    },
+    "055": {
+        "name_ar": "الرحمن",
+        "name_en": "Ar-Rahman",
+        "name_fa": "رحمن",
+        "verses": 78,
+        "type": "Medinan",
+        "juz": 27,
+        "order": 97,
+        "rukus": 3,
+        "sajdah": false
+    },
+    "056": {
+        "name_ar": "الواقعة",
+        "name_en": "Al-Waqi'a",
+        "name_fa": "واقعه",
+        "verses": 96,
+        "type": "Meccan",
+        "juz": 27,
+        "order": 46,
+        "rukus": 3,
+        "sajdah": false
+    },
+    "057": {
+        "name_ar": "الحديد",
+        "name_en": "Al-Hadid",
+        "name_fa": "حدید",
+        "verses": 29,
+        "type": "Medinan",
+        "juz": 27,
+        "order": 94,
+        "rukus": 4,
+        "sajdah": false
+    },
+    "058": {
+        "name_ar": "المجادلة",
+        "name_en": "Al-Mujadila",
+        "name_fa": "مجادله",
+        "verses": 22,
+        "type": "Medinan",
+        "juz": 28,
+        "order": 105,
+        "rukus": 3,
+        "sajdah": false
+    },
+    "059": {
+        "name_ar": "الحشر",
+        "name_en": "Al-Hashr",
+        "name_fa": "حشر",
+        "verses": 24,
+        "type": "Medinan",
+        "juz": 28,
+        "order": 101,
+        "rukus": 3,
+        "sajdah": false
+    },
+    "060": {
+        "name_ar": "الممتحنة",
+        "name_en": "Al-Mumtahina",
+        "name_fa": "ممتحنه",
+        "verses": 13,
+        "type": "Medinan",
+        "juz": 28,
+        "order": 91,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "061": {
+        "name_ar": "الصف",
+        "name_en": "As-Saff",
+        "name_fa": "صف",
+        "verses": 14,
+        "type": "Medinan",
+        "juz": 28,
+        "order": 109,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "062": {
+        "name_ar": "الجمعة",
+        "name_en": "Al-Jumu'a",
+        "name_fa": "جمعه",
+        "verses": 11,
+        "type": "Medinan",
+        "juz": 28,
+        "order": 110,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "063": {
+        "name_ar": "المنافقون",
+        "name_en": "Al-Munafiqun",
+        "name_fa": "منافقون",
+        "verses": 11,
+        "type": "Medinan",
+        "juz": 28,
+        "order": 104,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "064": {
+        "name_ar": "التغابن",
+        "name_en": "At-Taghabun",
+        "name_fa": "تغابن",
+        "verses": 18,
+        "type": "Medinan",
+        "juz": 28,
+        "order": 108,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "065": {
+        "name_ar": "الطلاق",
+        "name_en": "At-Talaq",
+        "name_fa": "طلاق",
+        "verses": 12,
+        "type": "Medinan",
+        "juz": 28,
+        "order": 99,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "066": {
+        "name_ar": "التحريم",
+        "name_en": "At-Tahrim",
+        "name_fa": "تحریم",
+        "verses": 12,
+        "type": "Medinan",
+        "juz": 28,
+        "order": 107,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "067": {
+        "name_ar": "الملك",
+        "name_en": "Al-Mulk",
+        "name_fa": "ملک",
+        "verses": 30,
+        "type": "Meccan",
+        "juz": 29,
+        "order": 77,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "068": {
+        "name_ar": "القلم",
+        "name_en": "Al-Qalam",
+        "name_fa": "قلم",
+        "verses": 52,
+        "type": "Meccan",
+        "juz": 29,
+        "order": 2,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "069": {
+        "name_ar": "الحاقة",
+        "name_en": "Al-Haqqah",
+        "name_fa": "حاقه",
+        "verses": 52,
+        "type": "Meccan",
+        "juz": 29,
+        "order": 78,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "070": {
+        "name_ar": "المعارج",
+        "name_en": "Al-Ma'arij",
+        "name_fa": "معارج",
+        "verses": 44,
+        "type": "Meccan",
+        "juz": 29,
+        "order": 79,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "071": {
+        "name_ar": "نوح",
+        "name_en": "Nuh",
+        "name_fa": "نوح",
+        "verses": 28,
+        "type": "Meccan",
+        "juz": 29,
+        "order": 71,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "072": {
+        "name_ar": "الجن",
+        "name_en": "Al-Jinn",
+        "name_fa": "جن",
+        "verses": 28,
+        "type": "Meccan",
+        "juz": 29,
+        "order": 40,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "073": {
+        "name_ar": "المزمل",
+        "name_en": "Al-Muzzammil",
+        "name_fa": "مزمل",
+        "verses": 20,
+        "type": "Meccan",
+        "juz": 29,
+        "order": 3,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "074": {
+        "name_ar": "المدثر",
+        "name_en": "Al-Muddathir",
+        "name_fa": "مدثر",
+        "verses": 56,
+        "type": "Meccan",
+        "juz": 29,
+        "order": 4,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "075": {
+        "name_ar": "القيامة",
+        "name_en": "Al-Qiyamah",
+        "name_fa": "قیامه",
+        "verses": 40,
+        "type": "Meccan",
+        "juz": 29,
+        "order": 31,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "076": {
+        "name_ar": "الإنسان",
+        "name_en": "Al-Insan",
+        "name_fa": "انسان",
+        "verses": 31,
+        "type": "Medinan",
+        "juz": 29,
+        "order": 98,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "077": {
+        "name_ar": "المرسلات",
+        "name_en": "Al-Mursalat",
+        "name_fa": "مرسلات",
+        "verses": 50,
+        "type": "Meccan",
+        "juz": 29,
+        "order": 33,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "078": {
+        "name_ar": "النبأ",
+        "name_en": "An-Naba",
+        "name_fa": "نبأ",
+        "verses": 40,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 80,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "079": {
+        "name_ar": "النازعات",
+        "name_en": "An-Nazi'at",
+        "name_fa": "نازعات",
+        "verses": 46,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 81,
+        "rukus": 2,
+        "sajdah": false
+    },
+    "080": {
+        "name_ar": "عبس",
+        "name_en": "Abasa",
+        "name_fa": "عبس",
+        "verses": 42,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 24,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "081": {
+        "name_ar": "التكوير",
+        "name_en": "At-Takwir",
+        "name_fa": "تکویر",
+        "verses": 29,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 7,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "082": {
+        "name_ar": "الإنفطار",
+        "name_en": "Al-Infitar",
+        "name_fa": "انفطار",
+        "verses": 19,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 82,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "083": {
+        "name_ar": "المطففين",
+        "name_en": "Al-Mutaffifin",
+        "name_fa": "مطففین",
+        "verses": 36,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 86,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "084": {
+        "name_ar": "الإنشقاق",
+        "name_en": "Al-Inshiqaq",
+        "name_fa": "انشقاق",
+        "verses": 25,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 83,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "085": {
+        "name_ar": "البروج",
+        "name_en": "Al-Buruj",
+        "name_fa": "بروج",
+        "verses": 22,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 27,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "086": {
+        "name_ar": "الطارق",
+        "name_en": "At-Tariq",
+        "name_fa": "طارق",
+        "verses": 17,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 36,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "087": {
+        "name_ar": "الأعلى",
+        "name_en": "Al-A'la",
+        "name_fa": "اعلی",
+        "verses": 19,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 8,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "088": {
+        "name_ar": "الغاشية",
+        "name_en": "Al-Ghashiyah",
+        "name_fa": "غاشیه",
+        "verses": 26,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 68,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "089": {
+        "name_ar": "الفجر",
+        "name_en": "Al-Fajr",
+        "name_fa": "فجر",
+        "verses": 30,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 10,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "090": {
+        "name_ar": "البلد",
+        "name_en": "Al-Balad",
+        "name_fa": "بلد",
+        "verses": 20,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 35,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "091": {
+        "name_ar": "الشمس",
+        "name_en": "Ash-Shams",
+        "name_fa": "شمس",
+        "verses": 15,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 26,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "092": {
+        "name_ar": "الليل",
+        "name_en": "Al-Lail",
+        "name_fa": "لیل",
+        "verses": 21,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 9,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "093": {
+        "name_ar": "الضحى",
+        "name_en": "Adh-Dhuha",
+        "name_fa": "ضحی",
+        "verses": 11,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 11,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "094": {
+        "name_ar": "الشرح",
+        "name_en": "Ash-Sharh",
+        "name_fa": "شرح",
+        "verses": 8,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 12,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "095": {
+        "name_ar": "التين",
+        "name_en": "At-Tin",
+        "name_fa": "تین",
+        "verses": 8,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 28,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "096": {
+        "name_ar": "العلق",
+        "name_en": "Al-`Alaq",
+        "name_fa": "علق",
+        "verses": 19,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 1,
+        "rukus": 1,
+        "sajdah": true
+    },
+    "097": {
+        "name_ar": "القدر",
+        "name_en": "Al-Qadr",
+        "name_fa": "قدر",
+        "verses": 5,
+        "type": "Meccan",
+        "juz": 30,
+        "order": 25,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "098": {
+        "name_ar": "البينة",
+        "name_en": "Al-Bayyina",
+        "name_fa": "بینه",
+        "verses": 8,
+        "type": "Medinan",
+        "juz": 30,
+        "order": 100,
+        "rukus": 1,
+        "sajdah": false
+    },
+    "099": {
+        "name_ar": "الزلزلة",
+        "name_en": "Az-Zalzalah",
+        "name_fa": "زلزله",
+        "verses": 8,
+        "type": "Medinan",
+        "juz": 30,
+        "order": 93,
+        "rukus": 1,
+        "sajdah": false
+    }
+}
